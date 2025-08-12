@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaustubh_coffee=self.webpackChunkkaustubh_coffee||[]).push([[8970],{8834:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/kaustubh-coffee/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

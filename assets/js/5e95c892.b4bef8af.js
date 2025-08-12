@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaustubh_coffee=self.webpackChunkkaustubh_coffee||[]).push([[9647],{7121:(e,s,u)=>{u.r(s),u.d(s,{default:()=>n});u(6540);var r=u(4164),a=u(7559),c=u(5500),t=u(2831),f=u(1656),h=u(4848);function n(e){return(0,h.jsx)(c.e3,{className:(0,r.A)(a.G.wrapper.docsPages),children:(0,h.jsx)(f.A,{children:(0,t.v)(e.route.routes)})})}}}]);
